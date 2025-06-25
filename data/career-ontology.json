@@ -1,0 +1,5896 @@
+{
+    "Software Engineer": {
+        "traits": [
+            "logical",
+            "analytical",
+            "detail-oriented"
+        ],
+        "salary": [
+            500000,
+            1800000
+        ],
+        "work_env": "Office/Hybrid",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Hyderabad"
+        ],
+        "demand_score": 9.2,
+        "nsdc_trainings": 757098,
+        "rank": 1
+    },
+    "AI/ML Engineer": {
+        "traits": [
+            "logical",
+            "curious",
+            "analytical"
+        ],
+        "salary": [
+            800000,
+            2200000
+        ],
+        "work_env": "Tech/Research",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Chennai"
+        ],
+        "demand_score": 9.8,
+        "nsdc_trainings": 91276,
+        "rank": 2
+    },
+    "Doctor (MBBS)": {
+        "traits": [
+            "empathetic",
+            "detail-oriented",
+            "patient"
+        ],
+        "salary": [
+            500000,
+            2000000
+        ],
+        "work_env": "Hospital/Clinic",
+        "growth": "High",
+        "locations": [
+            "Tier 1 & 2 cities"
+        ],
+        "demand_score": 8.7,
+        "nsdc_trainings": 102836,
+        "rank": 3
+    },
+    "Chartered Accountant": {
+        "traits": [
+            "analytical",
+            "organized",
+            "independent"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Corporate",
+        "growth": "Stable",
+        "locations": [
+            "Mumbai",
+            "Delhi",
+            "Ahmedabad"
+        ],
+        "demand_score": 8.4,
+        "nsdc_trainings": 182510,
+        "rank": 4
+    },
+    "Digital Marketer": {
+        "traits": [
+            "creative",
+            "strategic",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Startup/Agency",
+        "growth": "High",
+        "locations": [
+            "Delhi NCR",
+            "Mumbai",
+            "Bangalore"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 281276,
+        "rank": 5
+    },
+    "Banking & Finance Analyst": {
+        "traits": [
+            "analytical",
+            "decisive",
+            "organized"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Office",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Kolkata",
+            "Delhi"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 287510,
+        "rank": 6
+    },
+    "UX Designer": {
+        "traits": [
+            "creative",
+            "user-focused",
+            "collaborative"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Office/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Bangalore",
+            "Delhi"
+        ],
+        "demand_score": 7.1,
+        "nsdc_trainings": 281276,
+        "rank": 7
+    },
+    "Civil Services (IAS/IPS)": {
+        "traits": [
+            "decisive",
+            "strategic",
+            "empathetic"
+        ],
+        "salary": [
+            600000,
+            2500000
+        ],
+        "work_env": "Government/Admin",
+        "growth": "Structured",
+        "locations": [
+            "All India"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 0,
+        "rank": 8
+    },
+    "Entrepreneur (Startup Founder)": {
+        "traits": [
+            "risk-taking",
+            "creative",
+            "independent"
+        ],
+        "salary": [
+            0,
+            3000000
+        ],
+        "work_env": "Flexible",
+        "growth": "Unpredictable",
+        "locations": [
+            "Pan-India"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 38173,
+        "rank": 9
+    },
+    "Graphic Designer": {
+        "traits": [
+            "creative",
+            "collaborative",
+            "visual"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Remote/Agency",
+        "growth": "Moderate",
+        "locations": [
+            "Delhi",
+            "Ahmedabad",
+            "Remote"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 202173,
+        "rank": 10
+    },
+    "Data Scientist": {
+        "traits": [
+            "analytical",
+            "problem-solving",
+            "curious"
+        ],
+        "salary": [
+            700000,
+            2000000
+        ],
+        "work_env": "Office/Hybrid",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Pune"
+        ],
+        "demand_score": 9.5,
+        "nsdc_trainings": 120000,
+        "rank": 11
+    },
+    "Cybersecurity Specialist": {
+        "traits": [
+            "detail-oriented",
+            "vigilant",
+            "technical"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Office/Remote",
+        "growth": "High",
+        "locations": [
+            "Delhi NCR",
+            "Bangalore",
+            "Mumbai"
+        ],
+        "demand_score": 8.9,
+        "nsdc_trainings": 85000,
+        "rank": 12
+    },
+    "Ethical Hacker": {
+        "traits": [
+            "curious",
+            "technical",
+            "problem-solving"
+        ],
+        "salary": [
+            600000,
+            2000000
+        ],
+        "work_env": "Remote/Office",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Delhi",
+            "Mumbai"
+        ],
+        "demand_score": 9.1,
+        "nsdc_trainings": 50000,
+        "rank": 70
+    },
+    "Blockchain Developer": {
+        "traits": [
+            "innovative",
+            "mathematical",
+            "security-focused"
+        ],
+        "salary": [
+            900000,
+            2500000
+        ],
+        "work_env": "Remote/Tech",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Gurgaon",
+            "Pune"
+        ],
+        "demand_score": 9.3,
+        "nsdc_trainings": 35000,
+        "rank": 14
+    },
+    "Cloud Architect": {
+        "traits": [
+            "strategic",
+            "technical",
+            "leadership"
+        ],
+        "salary": [
+            1000000,
+            2500000
+        ],
+        "work_env": "Remote/Hybrid",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 9.4,
+        "nsdc_trainings": 40000,
+        "rank": 15
+    },
+    "Robotics Engineer": {
+        "traits": [
+            "technical",
+            "innovative",
+            "logical"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Tech/Manufacturing",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Chennai"
+        ],
+        "demand_score": 8.6,
+        "nsdc_trainings": 45000,
+        "rank": 16
+    },
+    "IoT Solutions Architect": {
+        "traits": [
+            "visionary",
+            "technical",
+            "integrative"
+        ],
+        "salary": [
+            800000,
+            2000000
+        ],
+        "work_env": "Tech/Research",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Noida"
+        ],
+        "demand_score": 8.7,
+        "nsdc_trainings": 30000,
+        "rank": 17
+    },
+    "Quantum Computing Scientist": {
+        "traits": [
+            "mathematical",
+            "research-oriented",
+            "patient"
+        ],
+        "salary": [
+            1200000,
+            3000000
+        ],
+        "work_env": "Research Lab",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 9.7,
+        "nsdc_trainings": 10000,
+        "rank": 18
+    },
+    "AR/VR Developer": {
+        "traits": [
+            "creative",
+            "technical",
+            "imaginative"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 25000,
+        "rank": 19
+    },
+    "5G Network Specialist": {
+        "traits": [
+            "technical",
+            "detail-oriented",
+            "adaptive"
+        ],
+        "salary": [
+            700000,
+            1900000
+        ],
+        "work_env": "Telecom/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Gurgaon"
+        ],
+        "demand_score": 8.8,
+        "nsdc_trainings": 20000,
+        "rank": 20
+    },
+    "Renewable Energy Engineer": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "technical"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Field/Office",
+        "growth": "High",
+        "locations": [
+            "Chennai",
+            "Ahmedabad",
+            "Jaipur"
+        ],
+        "demand_score": 8.3,
+        "nsdc_trainings": 45000,
+        "rank": 21
+    },
+    "Solar Energy Technician": {
+        "traits": [
+            "practical",
+            "safety-conscious",
+            "skilled"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Field",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan",
+            "Gujarat",
+            "Karnataka"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 60000,
+        "rank": 22
+    },
+    "Wind Turbine Technician": {
+        "traits": [
+            "mechanical",
+            "height-tolerant",
+            "precise"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Field",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Maharashtra"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 40000,
+        "rank": 23
+    },
+    "Carbon Auditor": {
+        "traits": [
+            "analytical",
+            "eco-conscious",
+            "detail-oriented"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Corporate/Consulting",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Mumbai"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 15000,
+        "rank": 24
+    },
+    "Environmental Engineer": {
+        "traits": [
+            "analytical",
+            "problem-solving",
+            "eco-conscious"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Field/Office",
+        "growth": "Moderate",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Pune"
+        ],
+        "demand_score": 5.9,
+        "nsdc_trainings": 35000,
+        "rank": 25
+    },
+    "Sustainability Manager": {
+        "traits": [
+            "strategic",
+            "communicative",
+            "data-driven"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Corporate",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.8,
+        "nsdc_trainings": 20000,
+        "rank": 26
+    },
+    "Telemedicine Doctor": {
+        "traits": [
+            "empathetic",
+            "tech-savvy",
+            "communicative"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Remote/Hospital",
+        "growth": "High",
+        "locations": [
+            "Pan-India"
+        ],
+        "demand_score": 8.2,
+        "nsdc_trainings": 30000,
+        "rank": 27
+    },
+    "Medical Robotics Engineer": {
+        "traits": [
+            "technical",
+            "precise",
+            "innovative"
+        ],
+        "salary": [
+            700000,
+            2000000
+        ],
+        "work_env": "Medical/Tech",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Mumbai"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 15000,
+        "rank": 28
+    },
+    "Genetic Counselor": {
+        "traits": [
+            "empathetic",
+            "analytical",
+            "communicative"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Hospital/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 8000,
+        "rank": 29
+    },
+    "Prosthetics Designer": {
+        "traits": [
+            "creative",
+            "technical",
+            "patient-focused"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Medical Labs",
+        "growth": "Moderate",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Chennai"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 10000,
+        "rank": 30
+    },
+    "Clinical Research Associate": {
+        "traits": [
+            "detail-oriented",
+            "organized",
+            "scientific"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Pharma/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Hyderabad",
+            "Pune",
+            "Bangalore"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 25000,
+        "rank": 31
+    },
+    "Healthcare Data Analyst": {
+        "traits": [
+            "analytical",
+            "detail-oriented",
+            "technical"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Hospital/Tech",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 18000,
+        "rank": 32
+    },
+    "Ayurvedic Wellness Consultant": {
+        "traits": [
+            "holistic",
+            "communicative",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Clinic/Resort",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Karnataka",
+            "Goa"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 35000,
+        "rank": 33
+    },
+    "Sports Physiotherapist": {
+        "traits": [
+            "energetic",
+            "patient",
+            "knowledgeble"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Clinic/Sports",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 20000,
+        "rank": 34
+    },
+    "VFX Artist": {
+        "traits": [
+            "creative",
+            "technical",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1500000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Chennai",
+            "Hyderabad"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 30000,
+        "rank": 35
+    },
+    "Game Developer": {
+        "traits": [
+            "creative",
+            "logical",
+            "collaborative"
+        ],
+        "salary": [
+            500000,
+            1800000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Hyderabad"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 40000,
+        "rank": 36
+    },
+    "Podcast Producer": {
+        "traits": [
+            "creative",
+            "organized",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Remote/Studio",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 15000,
+        "rank": 37
+    },
+    "Film Director": {
+        "traits": [
+            "visionary",
+            "leadership",
+            "creative"
+        ],
+        "salary": [
+            500000,
+            2000000
+        ],
+        "work_env": "Studio/On-location",
+        "growth": "Unpredictable",
+        "locations": [
+            "Mumbai",
+            "Chennai"
+        ],
+        "demand_score": 6.9,
+        "nsdc_trainings": 15000,
+        "rank": 38
+    },
+    "Voiceover Artist": {
+        "traits": [
+            "expressive",
+            "linguistic",
+            "adaptable"
+        ],
+        "salary": [
+            200000,
+            800000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Chennai",
+            "Delhi"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 10000,
+        "rank": 39
+    },
+    "Creative Writer": {
+        "traits": [
+            "imaginative",
+            "disciplined",
+            "adaptable"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Remote/Freelance",
+        "growth": "Moderate",
+        "locations": [
+            "Pan-India"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 50000,
+        "rank": 40
+    },
+    "Fashion Technologist": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "trend-aware"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Manufacturing/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Delhi",
+            "Bangalore"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 20000,
+        "rank": 41
+    },
+    "Ethical Fashion Designer": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "detail-oriented"
+        ],
+        "salary": [
+            300000,
+            1000000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 15000,
+        "rank": 42
+    },
+    "Textile Engineer": {
+        "traits": [
+            "technical",
+            "innovative",
+            "quality-focused"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu",
+            "Gujarat",
+            "Punjab"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 25000,
+        "rank": 43
+    },
+    "Culinary Scientist": {
+        "traits": [
+            "curious",
+            "experimental",
+            "precise"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Food Labs",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Delhi",
+            "Bangalore"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 10000,
+        "rank": 44
+    },
+    "Food Technologist": {
+        "traits": [
+            "detail-oriented",
+            "research-driven"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Lab/Factory",
+        "growth": "Moderate",
+        "locations": [
+            "Pune",
+            "Mysore",
+            "Guwahati"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 30000,
+        "rank": 45
+    },
+    "Nutritionist": {
+        "traits": [
+            "knowledgeable",
+            "communicative",
+            "empathetic"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Clinic/Corporate",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 40000,
+        "rank": 46
+    },
+    "Organic Farming Consultant": {
+        "traits": [
+            "eco-conscious",
+            "practical",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Field/Consulting",
+        "growth": "Moderate",
+        "locations": [
+            "Rural/Urban hubs"
+        ],
+        "demand_score": 5.3,
+        "nsdc_trainings": 35000,
+        "rank": 47
+    },
+    "Hydroponics Specialist": {
+        "traits": [
+            "innovative",
+            "technical",
+            "plant-knowledgeable"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Urban Farms",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.7,
+        "nsdc_trainings": 10000,
+        "rank": 48
+    },
+    "Drone Pilot": {
+        "traits": [
+            "tech-savvy",
+            "precise",
+            "regulatory-aware"
+        ],
+        "salary": [
+            500000,
+            1800000
+        ],
+        "work_env": "Field/Remote",
+        "growth": "High",
+        "locations": [
+            "Delhi NCR",
+            "Bangalore",
+            "Hyderabad"
+        ],
+        "demand_score": 7.9,
+        "nsdc_trainings": 15000,
+        "rank": 49
+    },
+    "Automotive Designer": {
+        "traits": [
+            "creative",
+            "technical",
+            "innovative"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Manufacturing/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Chennai",
+            "Pune",
+            "Bangalore"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 20000,
+        "rank": 50
+    },
+    "Electric Vehicle Engineer": {
+        "traits": [
+            "technical",
+            "eco-conscious",
+            "innovative"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Manufacturing/Tech",
+        "growth": "High",
+        "locations": [
+            "Chennai",
+            "Bangalore",
+            "Pune"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 25000,
+        "rank": 51
+    },
+    "Space Scientist (ISRO/Private)": {
+        "traits": [
+            "mathematical",
+            "visionary",
+            "rigorous"
+        ],
+        "salary": [
+            800000,
+            2500000
+        ],
+        "work_env": "Research Lab",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Ahmedabad",
+            "Thiruvananthapuram"
+        ],
+        "demand_score": 9.4,
+        "nsdc_trainings": 20000,
+        "rank": 52
+    },
+    "Astrophysicist": {
+        "traits": [
+            "mathematical",
+            "curious",
+            "patient"
+        ],
+        "salary": [
+            600000,
+            1800000
+        ],
+        "work_env": "Research/Academia",
+        "growth": "Moderate",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Mumbai"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 5000,
+        "rank": 53
+    },
+    "Forensic Scientist": {
+        "traits": [
+            "analytical",
+            "patient",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Lab/Govt",
+        "growth": "Stable",
+        "locations": [
+            "Delhi",
+            "Mumbai",
+            "Chandigarh"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 10000,
+        "rank": 54
+    },
+    "Criminal Psychologist": {
+        "traits": [
+            "observant",
+            "analytical",
+            "communicative"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Govt/Private",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 8000,
+        "rank": 55
+    },
+    "Wildlife Biologist": {
+        "traits": [
+            "patient",
+            "observant",
+            "eco-conscious"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Field/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Wildlife reserves"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 6000,
+        "rank": 56
+    },
+    "Marine Biologist": {
+        "traits": [
+            "curious",
+            "adventurous",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Field/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 7000,
+        "rank": 57
+    },
+    "Geospatial Analyst": {
+        "traits": [
+            "technical",
+            "detail-oriented",
+            "analytical"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Govt/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Hyderabad",
+            "Delhi",
+            "Bangalore"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 12000,
+        "rank": 58
+    },
+    "Disaster Management Specialist": {
+        "traits": [
+            "calm",
+            "strategic",
+            "communicative"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Govt/NGO",
+        "growth": "Moderate",
+        "locations": [
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 10000,
+        "rank": 59
+    },
+    "Urban Planner": {
+        "traits": [
+            "visionary",
+            "analytical",
+            "detail-oriented"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Govt/Private",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 15000,
+        "rank": 60
+    },
+    "Cricket Analyst (Sports Tech)": {
+        "traits": [
+            "data-driven",
+            "sports enthusiast"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Remote/Stadium",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Bangalore",
+            "Kolkata"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 5000,
+        "rank": 61
+    },
+    "Sports Nutritionist": {
+        "traits": [
+            "knowledgeable",
+            "communicative",
+            "fitness-focused"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Sports/Clinic",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 12000,
+        "rank": 62
+    },
+    "Yoga Therapist": {
+        "traits": [
+            "patient",
+            "empathetic",
+            "holistic"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Studio/Wellness",
+        "growth": "Moderate",
+        "locations": [
+            "Rishikesh",
+            "Bangalore",
+            "Mumbai"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 40000,
+        "rank": 63
+    },
+    "Event Planner": {
+        "traits": [
+            "organized",
+            "creative",
+            "sociable"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "On-site/Flexible",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.3,
+        "nsdc_trainings": 30000,
+        "rank": 64
+    },
+    "Wedding Consultant": {
+        "traits": [
+            "creative",
+            "detail-oriented",
+            "sociable"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Flexible",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 20000,
+        "rank": 65
+    },
+    "Luxury Brand Manager": {
+        "traits": [
+            "stylish",
+            "communicative",
+            "strategic"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Retail/Corporate",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Delhi",
+            "Bangalore"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 10000,
+        "rank": 66
+    },
+    "Sommelier (Wine Expert)": {
+        "traits": [
+            "sensory-focused",
+            "knowledgeable",
+            "articulate"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Hospitality",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities",
+            "Goa"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 5000,
+        "rank": 67
+    },
+    "Coffee Roaster": {
+        "traits": [
+            "detail-oriented",
+            "sensory-focused",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            700000
+        ],
+        "work_env": "Cafe/Factory",
+        "growth": "Moderate",
+        "locations": [
+            "Bangalore",
+            "Coorg",
+            "Delhi"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 3000,
+        "rank": 68
+    },
+    "Perfumer (Fragrance Chemist)": {
+        "traits": [
+            "creative",
+            "sensory-focused",
+            "technical"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Lab/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Kannauj",
+            "Delhi"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 2000,
+        "rank": 69
+    },
+    "Cyber Forensics Expert": {
+        "traits": [
+            "detail-oriented",
+            "analytical",
+            "patient"
+        ],
+        "salary": [
+            700000,
+            1900000
+        ],
+        "work_env": "Govt/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Hyderabad"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 15000,
+        "rank": 71
+    },
+    "Dark Web Investigator": {
+        "traits": [
+            "technical",
+            "curious",
+            "risk-tolerant"
+        ],
+        "salary": [
+            800000,
+            2200000
+        ],
+        "work_env": "Govt/Cybersecurity",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Mumbai",
+            "Bangalore"
+        ],
+        "demand_score": 8.8,
+        "nsdc_trainings": 5000,
+        "rank": 72
+    },
+    "AI Ethics Consultant": {
+        "traits": [
+            "philosophical",
+            "technical",
+            "communicative"
+        ],
+        "salary": [
+            700000,
+            2000000
+        ],
+        "work_env": "Research/Corporate",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Delhi",
+            "Mumbai"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 8000,
+        "rank": 73
+    },
+    "Cryptocurrency Analyst": {
+        "traits": [
+            "mathematical",
+            "risk-tolerant",
+            "tech-savvy"
+        ],
+        "salary": [
+            800000,
+            2500000
+        ],
+        "work_env": "Finance/Tech",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Gurgaon"
+        ],
+        "demand_score": 8.7,
+        "nsdc_trainings": 12000,
+        "rank": 74
+    },
+    "NFT Artist": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "entrepreneurial"
+        ],
+        "salary": [
+            300000,
+            2000000
+        ],
+        "work_env": "Remote/Freelance",
+        "growth": "Unpredictable",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 5000,
+        "rank": 75
+    },
+    "Metaverse Architect": {
+        "traits": [
+            "visionary",
+            "technical",
+            "creative"
+        ],
+        "salary": [
+            900000,
+            3000000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Mumbai"
+        ],
+        "demand_score": 9.0,
+        "nsdc_trainings": 10000,
+        "rank": 76
+    },
+    "Drone Traffic Controller": {
+        "traits": [
+            "detail-oriented",
+            "regulatory-aware",
+            "technical"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Aviation/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Hyderabad"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 8000,
+        "rank": 77
+    },
+    "Hyperloop Engineer": {
+        "traits": [
+            "innovative",
+            "technical",
+            "visionary"
+        ],
+        "salary": [
+            1000000,
+            3000000
+        ],
+        "work_env": "Research/Engineering",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Pune"
+        ],
+        "demand_score": 9.2,
+        "nsdc_trainings": 3000,
+        "rank": 78
+    },
+    "Vertical Farming Specialist": {
+        "traits": [
+            "eco-conscious",
+            "technical",
+            "plant-knowledgeable"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Urban Farms",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 7000,
+        "rank": 79
+    },
+    "Biomedical Waste Manager": {
+        "traits": [
+            "organized",
+            "safety-conscious",
+            "technical"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Healthcare/Government",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 5000,
+        "rank": 80
+    },
+    "Geriatric Care Manager": {
+        "traits": [
+            "empathetic",
+            "organized",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Healthcare/Community",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 25000,
+        "rank": 81
+    },
+    "Child Psychologist": {
+        "traits": [
+            "patient",
+            "empathetic",
+            "observant"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Clinic/School",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 18000,
+        "rank": 82
+    },
+    "Art Therapist": {
+        "traits": [
+            "creative",
+            "empathetic",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Clinic/Community",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 10000,
+        "rank": 83
+    },
+    "Museum Curator": {
+        "traits": [
+            "knowledgeable",
+            "detail-oriented",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Cultural Institutions",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 8000,
+        "rank": 84
+    },
+    "Archaeologist": {
+        "traits": [
+            "patient",
+            "detail-oriented",
+            "historical"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Field/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Historical sites"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 5000,
+        "rank": 85
+    },
+    "Paleontologist": {
+        "traits": [
+            "curious",
+            "patient",
+            "detail-oriented"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Research/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Research institutes"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 3000,
+        "rank": 86
+    },
+    "Wildlife Photographer": {
+        "traits": [
+            "adventurous",
+            "patient",
+            "creative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Field/Freelance",
+        "growth": "Low",
+        "locations": [
+            "National Parks",
+            "Metro hubs"
+        ],
+        "demand_score": 4.2,
+        "nsdc_trainings": 5000,
+        "rank": 87
+    },
+    "Underwater Photographer": {
+        "traits": [
+            "adventurous",
+            "technical",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Field/Freelance",
+        "growth": "Low",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 3000,
+        "rank": 88
+    },
+    "Adventure Tourism Guide": {
+        "traits": [
+            "outgoing",
+            "safety-conscious",
+            "knowledgeable"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Field",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayas",
+            "Goa",
+            "Kerala"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 15000,
+        "rank": 89
+    },
+    "Scuba Diving Instructor": {
+        "traits": [
+            "adventurous",
+            "patient",
+            "safety-focused"
+        ],
+        "salary": [
+            300000,
+            700000
+        ],
+        "work_env": "Coastal",
+        "growth": "Moderate",
+        "locations": [
+            "Andamans",
+            "Goa",
+            "Lakshadweep"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 5000,
+        "rank": 90
+    },
+    "Mountaineering Guide": {
+        "traits": [
+            "resilient",
+            "leadership",
+            "safety-conscious"
+        ],
+        "salary": [
+            350000,
+            800000
+        ],
+        "work_env": "Field",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 3000,
+        "rank": 91
+    },
+    "Tea Taster": {
+        "traits": [
+            "sensory-focused",
+            "detail-oriented",
+            "patient"
+        ],
+        "salary": [
+            400000,
+            900000
+        ],
+        "work_env": "Plantations/Labs",
+        "growth": "Moderate",
+        "locations": [
+            "Assam",
+            "Darjeeling",
+            "Nilgiris"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 2000,
+        "rank": 92
+    },
+    "Coffee Quality Specialist": {
+        "traits": [
+            "sensory-focused",
+            "detail-oriented",
+            "technical"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Plantations/Labs",
+        "growth": "Moderate",
+        "locations": [
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 3000,
+        "rank": 93
+    },
+    "Chocolate Sommelier": {
+        "traits": [
+            "sensory-focused",
+            "knowledgeable",
+            "articulate"
+        ],
+        "salary": [
+            300000,
+            700000
+        ],
+        "work_env": "Food Industry",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 1000,
+        "rank": 94
+    },
+    "Ethnobotanist": {
+        "traits": [
+            "curious",
+            "patient",
+            "eco-conscious"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Research/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Biodiversity hotspots"
+        ],
+        "demand_score": 4.2,
+        "nsdc_trainings": 2000,
+        "rank": 95
+    },
+    "Traditional Medicine Practitioner": {
+        "traits": [
+            "holistic",
+            "patient",
+            "knowledgeable"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Clinic/Community",
+        "growth": "Moderate",
+        "locations": [
+            "Rural/Urban"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 30000,
+        "rank": 96
+    },
+    "Handloom Designer": {
+        "traits": [
+            "creative",
+            "traditional",
+            "detail-oriented"
+        ],
+        "salary": [
+            200000,
+            500000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Assam",
+            "West Bengal",
+            "Andhra"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 15000,
+        "rank": 97
+    },
+    "Pottery Artist": {
+        "traits": [
+            "creative",
+            "patient",
+            "skilled"
+        ],
+        "salary": [
+            150000,
+            400000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Low",
+        "locations": [
+            "Rural/Urban"
+        ],
+        "demand_score": 3.8,
+        "nsdc_trainings": 10000,
+        "rank": 98
+    },
+    "Bamboo Architect": {
+        "traits": [
+            "eco-conscious",
+            "innovative",
+            "technical"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Construction/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Northeast",
+            "Kerala"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 99
+    },
+    "Sustainable Fashion Stylist": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "trend-aware"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Remote/Freelance",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 8000,
+        "rank": 100
+    },
+    "AI-Powered Agriculture Specialist": {
+        "traits": [
+            "technical",
+            "analytical",
+            "agricultural"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Field/Tech",
+        "growth": "High",
+        "locations": [
+            "Punjab",
+            "Maharashtra",
+            "Karnataka"
+        ],
+        "demand_score": 8.2,
+        "nsdc_trainings": 25000,
+        "rank": 101
+    },
+    "Blockchain Supply Chain Analyst": {
+        "traits": [
+            "detail-oriented",
+            "logistics-aware",
+            "tech-savvy"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Corporate",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Delhi",
+            "Chennai"
+        ],
+        "demand_score": 8.1,
+        "nsdc_trainings": 18000,
+        "rank": 102
+    },
+    "Cyberpsychology Consultant": {
+        "traits": [
+            "empathetic",
+            "tech-aware",
+            "analytical"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Delhi"
+        ],
+        "demand_score": 7.3,
+        "nsdc_trainings": 9000,
+        "rank": 103
+    },
+    "Digital Twin Engineer": {
+        "traits": [
+            "technical",
+            "precise",
+            "innovative"
+        ],
+        "salary": [
+            800000,
+            2000000
+        ],
+        "work_env": "Manufacturing/Tech",
+        "growth": "High",
+        "locations": [
+            "Pune",
+            "Chennai",
+            "Bangalore"
+        ],
+        "demand_score": 8.7,
+        "nsdc_trainings": 12000,
+        "rank": 104
+    },
+    "E-Waste Recycling Technologist": {
+        "traits": [
+            "eco-conscious",
+            "technical",
+            "practical"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Recycling Plants",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Mumbai"
+        ],
+        "demand_score": 7.1,
+        "nsdc_trainings": 15000,
+        "rank": 105
+    },
+    "Femtotechnology Researcher": {
+        "traits": [
+            "mathematical",
+            "patient",
+            "innovative"
+        ],
+        "salary": [
+            1500000,
+            3500000
+        ],
+        "work_env": "Research Lab",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 9.5,
+        "nsdc_trainings": 2000,
+        "rank": 106
+    },
+    "Geriatric Robotics Designer": {
+        "traits": [
+            "empathetic",
+            "technical",
+            "patient-focused"
+        ],
+        "salary": [
+            600000,
+            1600000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Chennai"
+        ],
+        "demand_score": 7.9,
+        "nsdc_trainings": 8000,
+        "rank": 107
+    },
+    "Holographic UI Designer": {
+        "traits": [
+            "creative",
+            "technical",
+            "visionary"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Pune"
+        ],
+        "demand_score": 8.3,
+        "nsdc_trainings": 11000,
+        "rank": 108
+    },
+    "Hydrogen Fuel Cell Engineer": {
+        "traits": [
+            "technical",
+            "eco-conscious",
+            "precise"
+        ],
+        "salary": [
+            900000,
+            2200000
+        ],
+        "work_env": "Energy Sector",
+        "growth": "High",
+        "locations": [
+            "Gujarat",
+            "Maharashtra",
+            "Tamil Nadu"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 13000,
+        "rank": 109
+    },
+    "Intelligent Transportation Planner": {
+        "traits": [
+            "analytical",
+            "urban-planning",
+            "tech-savvy"
+        ],
+        "salary": [
+            600000,
+            1700000
+        ],
+        "work_env": "Govt/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Mumbai",
+            "Bangalore"
+        ],
+        "demand_score": 7.8,
+        "nsdc_trainings": 16000,
+        "rank": 110
+    },
+    "Lunar Habitat Architect": {
+        "traits": [
+            "visionary",
+            "technical",
+            "space-knowledgeable"
+        ],
+        "salary": [
+            1200000,
+            3000000
+        ],
+        "work_env": "Space Research",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Ahmedabad"
+        ],
+        "demand_score": 9.3,
+        "nsdc_trainings": 1500,
+        "rank": 111
+    },
+    "Microbial Fuel Cell Developer": {
+        "traits": [
+            "biological",
+            "innovative",
+            "technical"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Research/Energy",
+        "growth": "High",
+        "locations": [
+            "Pune",
+            "Bangalore",
+            "Chennai"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 7000,
+        "rank": 112
+    },
+    "Nanomedicine Specialist": {
+        "traits": [
+            "precise",
+            "medical",
+            "technical"
+        ],
+        "salary": [
+            900000,
+            2200000
+        ],
+        "work_env": "Healthcare/Research",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Hyderabad",
+            "Bangalore"
+        ],
+        "demand_score": 8.6,
+        "nsdc_trainings": 6000,
+        "rank": 113
+    },
+    "Ocean Thermal Energy Technician": {
+        "traits": [
+            "technical",
+            "marine-knowledgeable"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Energy/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Chennai",
+            "Kochi",
+            "Vizag"
+        ],
+        "demand_score": 6.9,
+        "nsdc_trainings": 9000,
+        "rank": 114
+    },
+    "Personal Data Protection Officer": {
+        "traits": [
+            "legal",
+            "detail-oriented",
+            "tech-aware"
+        ],
+        "salary": [
+            800000,
+            1900000
+        ],
+        "work_env": "Corporate",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Bangalore",
+            "Gurgaon"
+        ],
+        "demand_score": 8.4,
+        "nsdc_trainings": 11000,
+        "rank": 115
+    },
+    "Quantum Machine Learning Engineer": {
+        "traits": [
+            "mathematical",
+            "technical",
+            "innovative"
+        ],
+        "salary": [
+            1100000,
+            2800000
+        ],
+        "work_env": "Tech/Research",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Pune"
+        ],
+        "demand_score": 9.4,
+        "nsdc_trainings": 4000,
+        "rank": 116
+    },
+    "Robotic Process Automation Architect": {
+        "traits": [
+            "technical",
+            "process-oriented",
+            "analytical"
+        ],
+        "salary": [
+            850000,
+            2000000
+        ],
+        "work_env": "Tech/Corporate",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Pune"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 14000,
+        "rank": 117
+    },
+    "Smart Dustbin Network Manager": {
+        "traits": [
+            "tech-savvy",
+            "organized",
+            "eco-conscious"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Municipal/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Smart cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 9000,
+        "rank": 118
+    },
+    "Tribal Education Technologist": {
+        "traits": [
+            "empathetic",
+            "cultural-knowledgeable",
+            "tech-savvy"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Education/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Tribal areas"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 12000,
+        "rank": 119
+    },
+    "Urban Air Mobility Designer": {
+        "traits": [
+            "visionary",
+            "technical",
+            "regulatory-aware"
+        ],
+        "salary": [
+            950000,
+            2300000
+        ],
+        "work_env": "Transport/Tech",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 8.7,
+        "nsdc_trainings": 5000,
+        "rank": 120
+    },
+    "Vertical Ocean Farmer": {
+        "traits": [
+            "innovative",
+            "marine-knowledgeable",
+            "practical"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Aquaculture",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 8000,
+        "rank": 121
+    },
+    "Wearable Health Tech Designer": {
+        "traits": [
+            "technical",
+            "medical-aware",
+            "creative"
+        ],
+        "salary": [
+            600000,
+            1600000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Hyderabad"
+        ],
+        "demand_score": 7.9,
+        "nsdc_trainings": 10000,
+        "rank": 122
+    },
+    "Xenolinguistics Researcher": {
+        "traits": [
+            "linguistic",
+            "analytical",
+            "patient"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Research",
+        "growth": "Moderate",
+        "locations": [
+            "University towns"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 3000,
+        "rank": 123
+    },
+    "Youth AI Ethics Educator": {
+        "traits": [
+            "communicative",
+            "ethical",
+            "tech-aware"
+        ],
+        "salary": [
+            450000,
+            1100000
+        ],
+        "work_env": "Education/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 15000,
+        "rank": 124
+    },
+    "Zero-Waste Lifestyle Coach": {
+        "traits": [
+            "eco-conscious",
+            "communicative",
+            "organized"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Consulting",
+        "growth": "Moderate",
+        "locations": [
+            "Urban hubs"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 18000,
+        "rank": 125
+    },
+    "3D Food Printing Chef": {
+        "traits": [
+            "creative",
+            "technical",
+            "culinary-skilled"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 7000,
+        "rank": 126
+    },
+    "4D Printing Engineer": {
+        "traits": [
+            "technical",
+            "innovative",
+            "material-science"
+        ],
+        "salary": [
+            850000,
+            2000000
+        ],
+        "work_env": "Manufacturing/Tech",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune",
+            "Chennai"
+        ],
+        "demand_score": 8.2,
+        "nsdc_trainings": 6000,
+        "rank": 127
+    },
+    "5G Network Security Specialist": {
+        "traits": [
+            "technical",
+            "security-focused",
+            "detail-oriented"
+        ],
+        "salary": [
+            900000,
+            2200000
+        ],
+        "work_env": "Telecom/Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore",
+            "Gurgaon"
+        ],
+        "demand_score": 8.8,
+        "nsdc_trainings": 11000,
+        "rank": 128
+    },
+    "Accessible UX Designer": {
+        "traits": [
+            "empathetic",
+            "creative",
+            "detail-oriented"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 7.2,
+        "nsdc_trainings": 14000,
+        "rank": 129
+    },
+    "Biophilic Design Consultant": {
+        "traits": [
+            "eco-conscious",
+            "creative",
+            "architectural"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Design/Consulting",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 8000,
+        "rank": 130
+    },
+    "Cannabis Research Scientist": {
+        "traits": [
+            "scientific",
+            "detail-oriented",
+            "regulatory-aware"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Research/Healthcare",
+        "growth": "Moderate",
+        "locations": [
+            "Research hubs"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 4000,
+        "rank": 131
+    },
+    "Digital Detox Therapist": {
+        "traits": [
+            "empathetic",
+            "communicative",
+            "tech-aware"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Wellness",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 12000,
+        "rank": 132
+    },
+    "E-Sports Psychologist": {
+        "traits": [
+            "analytical",
+            "gamer-aware",
+            "communicative"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Sports Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 9000,
+        "rank": 133
+    },
+    "Flying Car Maintenance Technician": {
+        "traits": [
+            "technical",
+            "aviation-aware",
+            "precise"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Aviation/Tech",
+        "growth": "High",
+        "locations": [
+            "Urban hubs"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 5000,
+        "rank": 134
+    },
+    "Glacier Conservation Specialist": {
+        "traits": [
+            "eco-conscious",
+            "field-oriented",
+            "patient"
+        ],
+        "salary": [
+            450000,
+            1100000
+        ],
+        "work_env": "Environment/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 3000,
+        "rank": 135
+    },
+    "Holistic Cybersecurity Auditor": {
+        "traits": [
+            "technical",
+            "risk-aware",
+            "ethical"
+        ],
+        "salary": [
+            750000,
+            1900000
+        ],
+        "work_env": "Tech/Corporate",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Delhi"
+        ],
+        "demand_score": 8.3,
+        "nsdc_trainings": 10000,
+        "rank": 136
+    },
+    "Insect Protein Chef": {
+        "traits": [
+            "innovative",
+            "culinary-skilled",
+            "adventurous"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 4000,
+        "rank": 137
+    },
+    "Jewelry 3D Printing Designer": {
+        "traits": [
+            "creative",
+            "technical",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Manufacturing/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Jaipur",
+            "Mumbai",
+            "Delhi"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 6000,
+        "rank": 138
+    },
+    "Kombucha Brewmaster": {
+        "traits": [
+            "scientific",
+            "creative",
+            "quality-focused"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Food Production",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 139
+    },
+    "Lab-Grown Meat Scientist": {
+        "traits": [
+            "biological",
+            "innovative",
+            "detail-oriented"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Food Tech/Research",
+        "growth": "High",
+        "locations": [
+            "Research hubs"
+        ],
+        "demand_score": 7.8,
+        "nsdc_trainings": 3000,
+        "rank": 140
+    },
+    "Meteorite Recovery Specialist": {
+        "traits": [
+            "adventurous",
+            "geological-knowledgeable"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Field/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Rural areas"
+        ],
+        "demand_score": 5.7,
+        "nsdc_trainings": 1000,
+        "rank": 141
+    },
+    "Neurogamification Designer": {
+        "traits": [
+            "creative",
+            "psychological",
+            "technical"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Mumbai",
+            "Pune"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 7000,
+        "rank": 142
+    },
+    "Ocean Plastic Upcycling Artist": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Art/Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 8000,
+        "rank": 143
+    },
+    "Personal Memory Curator": {
+        "traits": [
+            "empathetic",
+            "creative",
+            "communicative"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Wellness/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 5000,
+        "rank": 144
+    },
+    "Quantum Cryptography Analyst": {
+        "traits": [
+            "mathematical",
+            "security-focused",
+            "detail-oriented"
+        ],
+        "salary": [
+            1100000,
+            2700000
+        ],
+        "work_env": "Tech/Research",
+        "growth": "Explosive",
+        "locations": [
+            "Bangalore",
+            "Hyderabad",
+            "Pune"
+        ],
+        "demand_score": 9.2,
+        "nsdc_trainings": 4000,
+        "rank": 145
+    },
+    "Reptile Conservation Biologist": {
+        "traits": [
+            "patient",
+            "field-oriented",
+            "zoological"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Wildlife/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Forest regions"
+        ],
+        "demand_score": 5.3,
+        "nsdc_trainings": 3000,
+        "rank": 146
+    },
+    "Space Debris Removal Technician": {
+        "traits": [
+            "technical",
+            "precise",
+            "space-aware"
+        ],
+        "salary": [
+            800000,
+            2000000
+        ],
+        "work_env": "Space Tech",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Ahmedabad"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 2000,
+        "rank": 147
+    },
+    "Time Capsule Curator": {
+        "traits": [
+            "historical",
+            "detail-oriented",
+            "organized"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Cultural/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.7,
+        "nsdc_trainings": 4000,
+        "rank": 148
+    },
+    "Urban Beekeeping Consultant": {
+        "traits": [
+            "eco-conscious",
+            "practical",
+            "organized"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Urban Farming",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 6000,
+        "rank": 149
+    },
+    "Virtual Reality Therapist": {
+        "traits": [
+            "empathetic",
+            "tech-savvy",
+            "communicative"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 9000,
+        "rank": 150
+    },
+    "Wildfire Prediction Analyst": {
+        "traits": [
+            "analytical",
+            "meteorological",
+            "tech-savvy"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Environment/Tech",
+        "growth": "High",
+        "locations": [
+            "Forest regions"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 5000,
+        "rank": 151
+    },
+    "Xylophone Restoration Specialist": {
+        "traits": [
+            "musical",
+            "detail-oriented",
+            "patient"
+        ],
+        "salary": [
+            200000,
+            500000
+        ],
+        "work_env": "Art Conservation",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 3.8,
+        "nsdc_trainings": 2000,
+        "rank": 152
+    },
+    "Yoga Tech Developer": {
+        "traits": [
+            "tech-savvy",
+            "wellness-knowledgeable"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Wellness/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Bangalore",
+            "Rishikesh"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 7000,
+        "rank": 153
+    },
+    "Zero-Gravity Fitness Trainer": {
+        "traits": [
+            "athletic",
+            "space-aware",
+            "innovative"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Space Tourism",
+        "growth": "High",
+        "locations": [
+            "Space centers"
+        ],
+        "demand_score": 7.2,
+        "nsdc_trainings": 1000,
+        "rank": 154
+    },
+    "AI-Assisted Screenplay Writer": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "narrative-skilled"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Entertainment/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Chennai"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 8000,
+        "rank": 155
+    },
+    "Biohacking Wellness Coach": {
+        "traits": [
+            "scientific",
+            "communicative",
+            "health-focused"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Wellness/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 10000,
+        "rank": 156
+    },
+    "Crowd Behavior Analyst": {
+        "traits": [
+            "psychological",
+            "observational",
+            "analytical"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Research/Security",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 5000,
+        "rank": 157
+    },
+    "Drone-Based Pollinator": {
+        "traits": [
+            "technical",
+            "ecological",
+            "precise"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Agriculture/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Farming regions"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 6000,
+        "rank": 158
+    },
+    "Exoskeleton Suit Technician": {
+        "traits": [
+            "technical",
+            "biomedical",
+            "precise"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.8,
+        "nsdc_trainings": 7000,
+        "rank": 159
+    },
+    "Floating Solar Farm Engineer": {
+        "traits": [
+            "technical",
+            "eco-conscious",
+            "innovative"
+        ],
+        "salary": [
+            650000,
+            1600000
+        ],
+        "work_env": "Energy/Tech",
+        "growth": "High",
+        "locations": [
+            "Water-rich regions"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 8000,
+        "rank": 160
+    },
+    "Glacier Water Sommelier": {
+        "traits": [
+            "sensory-focused",
+            "hydrological-knowledgeable"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Water Industry",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 4.8,
+        "nsdc_trainings": 2000,
+        "rank": 161
+    },
+    "Holographic Fashion Designer": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "visionary"
+        ],
+        "salary": [
+            500000,
+            1400000
+        ],
+        "work_env": "Fashion/Tech",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Bangalore"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 9000,
+        "rank": 162
+    },
+    "Invisible UI Designer": {
+        "traits": [
+            "creative",
+            "psychological",
+            "technical"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Hyderabad"
+        ],
+        "demand_score": 7.7,
+        "nsdc_trainings": 10000,
+        "rank": 163
+    },
+    "Jungle Survival Instructor": {
+        "traits": [
+            "outdoorsy",
+            "knowledgeable",
+            "patient"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Adventure Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Forest regions"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 4000,
+        "rank": 164
+    },
+    "Kinetic Energy Harvesting Specialist": {
+        "traits": [
+            "technical",
+            "innovative",
+            "physics-aware"
+        ],
+        "salary": [
+            750000,
+            1900000
+        ],
+        "work_env": "Energy/Tech",
+        "growth": "High",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 5000,
+        "rank": 165
+    },
+    "Lunar Soil Agriculturist": {
+        "traits": [
+            "botanical",
+            "innovative",
+            "space-aware"
+        ],
+        "salary": [
+            900000,
+            2200000
+        ],
+        "work_env": "Space Agriculture",
+        "growth": "Explosive",
+        "locations": [
+            "Space research hubs"
+        ],
+        "demand_score": 8.5,
+        "nsdc_trainings": 1000,
+        "rank": 166
+    },
+    "Mushroom Leather Developer": {
+        "traits": [
+            "eco-conscious",
+            "material-science",
+            "innovative"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Textile Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Research hubs"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 3000,
+        "rank": 167
+    },
+    "Neon Sign Restoration Artist": {
+        "traits": [
+            "artistic",
+            "detail-oriented",
+            "historical"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Art Conservation",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 2000,
+        "rank": 168
+    },
+    "Optical Illusion Architect": {
+        "traits": [
+            "creative",
+            "mathematical",
+            "visionary"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Architecture/Art",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.7,
+        "nsdc_trainings": 4000,
+        "rank": 169
+    },
+    "Post-Disaster Reconstruction Planner": {
+        "traits": [
+            "organized",
+            "empathetic",
+            "architectural"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Urban Planning",
+        "growth": "High",
+        "locations": [
+            "Disaster-prone areas"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 6000,
+        "rank": 170
+    },
+    "Quantum Art Curator": {
+        "traits": [
+            "artistic",
+            "quantum-aware",
+            "communicative"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Art/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 3000,
+        "rank": 171
+    },
+    "Robotic Hair Stylist": {
+        "traits": [
+            "technical",
+            "creative",
+            "precise"
+        ],
+        "salary": [
+            450000,
+            1100000
+        ],
+        "work_env": "Beauty/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 5000,
+        "rank": 172
+    },
+    "Smart Tattoo Artist": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "precise"
+        ],
+        "salary": [
+            350000,
+            900000
+        ],
+        "work_env": "Art/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 7000,
+        "rank": 173
+    },
+    "Treehouse Architect": {
+        "traits": [
+            "creative",
+            "structural-knowledgeable",
+            "eco-conscious"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Architecture",
+        "growth": "Moderate",
+        "locations": [
+            "Resort areas"
+        ],
+        "demand_score": 5.7,
+        "nsdc_trainings": 4000,
+        "rank": 174
+    },
+    "Underwater Hotel Manager": {
+        "traits": [
+            "organized",
+            "hospitality-skilled",
+            "diving-certified"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Hospitality",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal resorts"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 3000,
+        "rank": 175
+    },
+    "Vertical Forest Designer": {
+        "traits": [
+            "eco-conscious",
+            "architectural",
+            "innovative"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Urban Planning",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 5000,
+        "rank": 176
+    },
+    "Water Crisis Mitigation Expert": {
+        "traits": [
+            "analytical",
+            "hydrological",
+            "problem-solving"
+        ],
+        "salary": [
+            650000,
+            1600000
+        ],
+        "work_env": "Environment/Government",
+        "growth": "High",
+        "locations": [
+            "Water-stressed regions"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 6000,
+        "rank": 177
+    },
+    "Xylography (Woodblock Printing) Artist": {
+        "traits": [
+            "artistic",
+            "patient",
+            "traditional-skilled"
+        ],
+        "salary": [
+            200000,
+            500000
+        ],
+        "work_env": "Artisan",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 2000,
+        "rank": 178
+    },
+    "Yacht Interior Designer": {
+        "traits": [
+            "creative",
+            "luxury-aware",
+            "spatial"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Design",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 4000,
+        "rank": 179
+    },
+    "Zero-Waste Wedding Planner": {
+        "traits": [
+            "organized",
+            "eco-conscious",
+            "creative"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Event Planning",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 6000,
+        "rank": 180
+    },
+    "AI-Generated Music Composer": {
+        "traits": [
+            "musical",
+            "tech-savvy",
+            "creative"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Entertainment/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Bangalore"
+        ],
+        "demand_score": 6.3,
+        "nsdc_trainings": 7000,
+        "rank": 181
+    },
+    "Bamboo Bicycle Designer": {
+        "traits": [
+            "eco-conscious",
+            "mechanical",
+            "innovative"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "Urban hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 4000,
+        "rank": 182
+    },
+    "Coral Reef Restoration Diver": {
+        "traits": [
+            "eco-conscious",
+            "diving-certified",
+            "patient"
+        ],
+        "salary": [
+            400000,
+            1000000
+        ],
+        "work_env": "Marine Conservation",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal regions"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 3000,
+        "rank": 183
+    },
+    "Digital Death Manager": {
+        "traits": [
+            "empathetic",
+            "organized",
+            "tech-savvy"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Digital Services",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.3,
+        "nsdc_trainings": 5000,
+        "rank": 184
+    },
+    "Eco-Funeral Director": {
+        "traits": [
+            "empathetic",
+            "eco-conscious",
+            "organized"
+        ],
+        "salary": [
+            300000,
+            700000
+        ],
+        "work_env": "Funeral Services",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 4000,
+        "rank": 185
+    },
+    "Floating City Architect": {
+        "traits": [
+            "visionary",
+            "technical",
+            "marine-aware"
+        ],
+        "salary": [
+            800000,
+            2000000
+        ],
+        "work_env": "Urban Planning",
+        "growth": "High",
+        "locations": [
+            "Coastal regions"
+        ],
+        "demand_score": 8.0,
+        "nsdc_trainings": 2000,
+        "rank": 186
+    },
+    "Glow-in-the-Dark Plant Engineer": {
+        "traits": [
+            "biological",
+            "innovative",
+            "technical"
+        ],
+        "salary": [
+            600000,
+            1500000
+        ],
+        "work_env": "Bio-Tech",
+        "growth": "High",
+        "locations": [
+            "Research hubs"
+        ],
+        "demand_score": 7.2,
+        "nsdc_trainings": 3000,
+        "rank": 187
+    },
+    "Hyperloop Station Manager": {
+        "traits": [
+            "organized",
+            "tech-aware",
+            "customer-focused"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Transport/Tech",
+        "growth": "High",
+        "locations": [
+            "Hyperloop hubs"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 4000,
+        "rank": 188
+    },
+    "Ice Hotel Designer": {
+        "traits": [
+            "creative",
+            "architectural",
+            "cold-climate-knowledgeable"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Hospitality/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Mountain regions"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 2000,
+        "rank": 189
+    },
+    "Junk Art Sculptor": {
+        "traits": [
+            "creative",
+            "resourceful",
+            "artistic"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Art",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 4.2,
+        "nsdc_trainings": 3000,
+        "rank": 190
+    },
+    "Kite-Based Energy Technician": {
+        "traits": [
+            "technical",
+            "innovative",
+            "height-tolerant"
+        ],
+        "salary": [
+            450000,
+            1100000
+        ],
+        "work_env": "Energy/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Windy regions"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 2000,
+        "rank": 191
+    },
+    "Living Building Materials Scientist": {
+        "traits": [
+            "biological",
+            "architectural",
+            "innovative"
+        ],
+        "salary": [
+            700000,
+            1800000
+        ],
+        "work_env": "Construction/Tech",
+        "growth": "High",
+        "locations": [
+            "Research hubs"
+        ],
+        "demand_score": 7.8,
+        "nsdc_trainings": 3000,
+        "rank": 192
+    },
+    "Moss Graffiti Artist": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "botanical"
+        ],
+        "salary": [
+            200000,
+            500000
+        ],
+        "work_env": "Art/Urban",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 1000,
+        "rank": 193
+    },
+    "Neonatal AI Monitoring Specialist": {
+        "traits": [
+            "technical",
+            "medical-aware",
+            "detail-oriented"
+        ],
+        "salary": [
+            650000,
+            1600000
+        ],
+        "work_env": "Healthcare/Tech",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 7.5,
+        "nsdc_trainings": 5000,
+        "rank": 194
+    },
+    "Ocean Wave Energy Converter Technician": {
+        "traits": [
+            "technical",
+            "marine-knowledgeable"
+        ],
+        "salary": [
+            500000,
+            1300000
+        ],
+        "work_env": "Energy/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal regions"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 3000,
+        "rank": 195
+    },
+    "Pet Psychologist": {
+        "traits": [
+            "empathetic",
+            "animal-knowledgeable",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            750000
+        ],
+        "work_env": "Animal Care",
+        "growth": "Moderate",
+        "locations": [
+            "Urban centers"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 6000,
+        "rank": 196
+    },
+    "Quantum Yoga Instructor": {
+        "traits": [
+            "yoga-knowledgeable",
+            "quantum-aware",
+            "communicative"
+        ],
+        "salary": [
+            350000,
+            850000
+        ],
+        "work_env": "Wellness/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rishikesh",
+            "Bangalore"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 4000,
+        "rank": 197
+    },
+    "Robotic Pet Companion Designer": {
+        "traits": [
+            "technical",
+            "empathetic",
+            "creative"
+        ],
+        "salary": [
+            550000,
+            1400000
+        ],
+        "work_env": "Tech/Design",
+        "growth": "High",
+        "locations": [
+            "Bangalore",
+            "Pune"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 5000,
+        "rank": 198
+    },
+    "Sandcastle Architect": {
+        "traits": [
+            "creative",
+            "structural",
+            "artistic"
+        ],
+        "salary": [
+            250000,
+            600000
+        ],
+        "work_env": "Tourism/Art",
+        "growth": "Moderate",
+        "locations": [
+            "Beach destinations"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 2000,
+        "rank": 199
+    },
+    "Tree Climbing Instructor": {
+        "traits": [
+            "athletic",
+            "safety-conscious",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            700000
+        ],
+        "work_env": "Adventure Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Forest regions"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 3000,
+        "rank": 200
+    },
+    "Ayurvedic Pharmacologist": {
+        "traits": [
+            "holistic",
+            "research-oriented",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1200000
+        ],
+        "work_env": "Research/Lab",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Karnataka"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 15000,
+        "rank": 201
+    },
+    "Bamboo Crafts Entrepreneur": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "business-savvy"
+        ],
+        "salary": [
+            250000,
+            800000
+        ],
+        "work_env": "Workshop/Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Northeast",
+            "Kerala"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 10000,
+        "rank": 202
+    },
+    "Bollywood Choreographer": {
+        "traits": [
+            "creative",
+            "energetic",
+            "communicative"
+        ],
+        "salary": [
+            500000,
+            1500000
+        ],
+        "work_env": "Studio/On-site",
+        "growth": "High",
+        "locations": [
+            "Mumbai",
+            "Hyderabad"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 5000,
+        "rank": 203
+    },
+    "Classical Dance Therapist": {
+        "traits": [
+            "empathetic",
+            "artistic",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Wellness/Studio",
+        "growth": "Moderate",
+        "locations": [
+            "Chennai",
+            "Kolkata"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 8000,
+        "rank": 204
+    },
+    "Coconut-Based Product Designer": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 12000,
+        "rank": 205
+    },
+    "Crowdfunding Campaign Manager": {
+        "traits": [
+            "strategic",
+            "communicative",
+            "persuasive"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Remote/Agency",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 15000,
+        "rank": 206
+    },
+    "Desi Ghee Artisan": {
+        "traits": [
+            "traditional",
+            "quality-focused",
+            "patient"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Dairy/Farm",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 20000,
+        "rank": 207
+    },
+    "Dholak Maker": {
+        "traits": [
+            "artistic",
+            "musical",
+            "detail-oriented"
+        ],
+        "salary": [
+            150000,
+            500000
+        ],
+        "work_env": "Workshop",
+        "growth": "Low",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 3.8,
+        "nsdc_trainings": 5000,
+        "rank": 208
+    },
+    "Eco-Friendly Ganesha Idol Maker": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "seasonal"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Workshop",
+        "growth": "Seasonal",
+        "locations": [
+            "Mumbai",
+            "Pune"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 8000,
+        "rank": 209
+    },
+    "Edible Insect Farmer": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "risk-tolerant"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Farm/Urban",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 6000,
+        "rank": 210
+    },
+    "Folk Art Digital Archivist": {
+        "traits": [
+            "detail-oriented",
+            "artistic",
+            "tech-savvy"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Cultural/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan",
+            "Odisha"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 7000,
+        "rank": 211
+    },
+    "Gandhian Economics Practitioner": {
+        "traits": [
+            "philosophical",
+            "eco-conscious",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "NGO/Academia",
+        "growth": "Moderate",
+        "locations": [
+            "Gujarat",
+            "Delhi"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 3000,
+        "rank": 212
+    },
+    "Handmade Paper Entrepreneur": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "business-savvy"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Workshop/Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Jaipur",
+            "Kolkata"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 10000,
+        "rank": 213
+    },
+    "Heritage Food Revivalist": {
+        "traits": [
+            "traditional",
+            "culinary-skilled",
+            "communicative"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Culinary/Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 8000,
+        "rank": 214
+    },
+    "Indian Classical Music Therapist": {
+        "traits": [
+            "empathetic",
+            "musical",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Wellness/Studio",
+        "growth": "Moderate",
+        "locations": [
+            "Varanasi",
+            "Chennai"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 7000,
+        "rank": 215
+    },
+    "Jaggery-Based Product Innovator": {
+        "traits": [
+            "innovative",
+            "culinary-skilled",
+            "eco-conscious"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 9000,
+        "rank": 216
+    },
+    "Kantha Stitch Designer": {
+        "traits": [
+            "creative",
+            "traditional",
+            "detail-oriented"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "West Bengal"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 12000,
+        "rank": 217
+    },
+    "Khadi Fashion Technologist": {
+        "traits": [
+            "traditional",
+            "tech-savvy",
+            "eco-conscious"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Manufacturing/Design",
+        "growth": "Moderate",
+        "locations": [
+            "Gujarat",
+            "Tamil Nadu"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 15000,
+        "rank": 218
+    },
+    "Kolam/Rangoli Digital Artist": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Digital/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu",
+            "Karnataka"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 6000,
+        "rank": 219
+    },
+    "Leather Puppetry Animator": {
+        "traits": [
+            "artistic",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Creative/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Andhra",
+            "Karnataka"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 4000,
+        "rank": 220
+    },
+    "Madhubani NFT Artist": {
+        "traits": [
+            "creative",
+            "traditional",
+            "tech-savvy"
+        ],
+        "salary": [
+            350000,
+            1200000
+        ],
+        "work_env": "Digital/Remote",
+        "growth": "High",
+        "locations": [
+            "Bihar",
+            "Delhi"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 5000,
+        "rank": 221
+    },
+    "Micro-Finance Rural Advisor": {
+        "traits": [
+            "empathetic",
+            "financial",
+            "communicative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Rural/NGO",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 25000,
+        "rank": 222
+    },
+    "Millet-Based Chef": {
+        "traits": [
+            "innovative",
+            "culinary-skilled",
+            "health-focused"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Culinary",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 15000,
+        "rank": 223
+    },
+    "Natural Dye Textile Artist": {
+        "traits": [
+            "eco-conscious",
+            "artistic",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Studio/Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan",
+            "Gujarat"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 8000,
+        "rank": 224
+    },
+    "Organic Beauty Product Maker": {
+        "traits": [
+            "eco-conscious",
+            "creative",
+            "business-savvy"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Manufacturing/Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Goa"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 12000,
+        "rank": 225
+    },
+    "Panchakarma Specialist": {
+        "traits": [
+            "holistic",
+            "empathetic",
+            "patient"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Wellness/Clinic",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Karnataka"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 18000,
+        "rank": 226
+    },
+    "Pani Puri Flavor Innovator": {
+        "traits": [
+            "creative",
+            "culinary-skilled",
+            "experimental"
+        ],
+        "salary": [
+            250000,
+            800000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Mumbai",
+            "Delhi"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 5000,
+        "rank": 227
+    },
+    "Patola Saree Digital Marketer": {
+        "traits": [
+            "traditional",
+            "tech-savvy",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "E-commerce",
+        "growth": "Moderate",
+        "locations": [
+            "Gujarat"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 7000,
+        "rank": 228
+    },
+    "Phad Painting Animator": {
+        "traits": [
+            "artistic",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Creative/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 4000,
+        "rank": 229
+    },
+    "Plant-Based Ayurvedic Chef": {
+        "traits": [
+            "holistic",
+            "culinary-skilled",
+            "innovative"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Culinary/Wellness",
+        "growth": "High",
+        "locations": [
+            "Kerala",
+            "Bangalore"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 10000,
+        "rank": 230
+    },
+    "Poultry Vaccine Developer": {
+        "traits": [
+            "scientific",
+            "detail-oriented",
+            "agricultural"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Research/Agriculture",
+        "growth": "Moderate",
+        "locations": [
+            "Hyderabad",
+            "Pune"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 8000,
+        "rank": 231
+    },
+    "Puppetry-Based Educator": {
+        "traits": [
+            "creative",
+            "communicative",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Education/Arts",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 6000,
+        "rank": 232
+    },
+    "Rare Indian Spice Curator": {
+        "traits": [
+            "detail-oriented",
+            "culinary-skilled",
+            "traditional"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Culinary/Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Karnataka"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 5000,
+        "rank": 233
+    },
+    "Rural BPO Operator": {
+        "traits": [
+            "communicative",
+            "tech-savvy",
+            "patient"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Rural/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Tier 2/3 cities"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 30000,
+        "rank": 234
+    },
+    "Sacred Grove Conservationist": {
+        "traits": [
+            "eco-conscious",
+            "traditional",
+            "field-oriented"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "NGO/Field",
+        "growth": "Moderate",
+        "locations": [
+            "Western Ghats"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 4000,
+        "rank": 235
+    },
+    "Sanskrit AI Linguist": {
+        "traits": [
+            "linguistic",
+            "tech-savvy",
+            "detail-oriented"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Research/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Varanasi",
+            "Pune"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 3000,
+        "rank": 236
+    },
+    "Solar Rickshaw Innovator": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "technical"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Green Tech",
+        "growth": "High",
+        "locations": [
+            "Delhi",
+            "Bangalore"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 10000,
+        "rank": 237
+    },
+    "Street Food Hygienist": {
+        "traits": [
+            "detail-oriented",
+            "communicative",
+            "health-focused"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Municipal/Food",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 15000,
+        "rank": 238
+    },
+    "Sustainable Temple Architect": {
+        "traits": [
+            "traditional",
+            "eco-conscious",
+            "architectural"
+        ],
+        "salary": [
+            450000,
+            1200000
+        ],
+        "work_env": "Construction",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 5000,
+        "rank": 239
+    },
+    "Tanjore Painting Restorer": {
+        "traits": [
+            "artistic",
+            "patient",
+            "detail-oriented"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Art Conservation",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 3000,
+        "rank": 240
+    },
+    "Tribal Land Rights Consultant": {
+        "traits": [
+            "empathetic",
+            "legal",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "NGO/Legal",
+        "growth": "Moderate",
+        "locations": [
+            "Tribal areas"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 6000,
+        "rank": 241
+    },
+    "Upcycled Sari Product Designer": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Studio/Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 8000,
+        "rank": 242
+    },
+    "Vegan Leather Innovator": {
+        "traits": [
+            "eco-conscious",
+            "innovative",
+            "material-science"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Green Tech",
+        "growth": "High",
+        "locations": [
+            "Chennai",
+            "Bangalore"
+        ],
+        "demand_score": 7.0,
+        "nsdc_trainings": 7000,
+        "rank": 243
+    },
+    "Warli Art Muralist": {
+        "traits": [
+            "creative",
+            "traditional",
+            "collaborative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Art/Urban",
+        "growth": "Moderate",
+        "locations": [
+            "Maharashtra"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 244
+    },
+    "Water Harvesting Consultant": {
+        "traits": [
+            "eco-conscious",
+            "technical",
+            "communicative"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Green Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan",
+            "Gujarat"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 10000,
+        "rank": 245
+    },
+    "Yoga Tourism Coordinator": {
+        "traits": [
+            "organized",
+            "wellness-knowledgeable",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Tourism/Wellness",
+        "growth": "Moderate",
+        "locations": [
+            "Rishikesh",
+            "Goa"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 12000,
+        "rank": 246
+    },
+    "Zero-Budget Farming Coach": {
+        "traits": [
+            "eco-conscious",
+            "agricultural",
+            "communicative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Rural/Consulting",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 20000,
+        "rank": 247
+    },
+    "A2 Milk Dairy Technologist": {
+        "traits": [
+            "scientific",
+            "quality-focused",
+            "agricultural"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Dairy/Farm",
+        "growth": "Moderate",
+        "locations": [
+            "Gujarat",
+            "Punjab"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 10000,
+        "rank": 248
+    },
+    "Beekeeping Educator": {
+        "traits": [
+            "eco-conscious",
+            "communicative",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Rural/Education",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 8000,
+        "rank": 249
+    },
+    "Chai Sommelier": {
+        "traits": [
+            "sensory-focused",
+            "communicative",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Hospitality",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 5000,
+        "rank": 250
+    },
+    "Devotional Music Composer": {
+        "traits": [
+            "creative",
+            "musical",
+            "traditional"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Studio/Remote",
+        "growth": "Moderate",
+        "locations": [
+            "Cultural hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 4000,
+        "rank": 251
+    },
+    "Eco-Friendly Cremation Specialist": {
+        "traits": [
+            "empathetic",
+            "eco-conscious",
+            "organized"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Funeral Services",
+        "growth": "Moderate",
+        "locations": [
+            "Varanasi",
+            "Haridwar"
+        ],
+        "demand_score": 5.2,
+        "nsdc_trainings": 3000,
+        "rank": 252
+    },
+    "Floating Wetland Designer": {
+        "traits": [
+            "eco-conscious",
+            "technical",
+            "innovative"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Green Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Coastal cities"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 5000,
+        "rank": 253
+    },
+    "Ghost Kitchen Chef": {
+        "traits": [
+            "culinary-skilled",
+            "tech-savvy",
+            "adaptable"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Food Tech",
+        "growth": "High",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.8,
+        "nsdc_trainings": 10000,
+        "rank": 254
+    },
+    "Heritage Walk Curator": {
+        "traits": [
+            "knowledgeable",
+            "communicative",
+            "historical"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Heritage cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 6000,
+        "rank": 255
+    },
+    "Indian Martial Arts Instructor": {
+        "traits": [
+            "athletic",
+            "traditional",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Sports/Wellness",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 4000,
+        "rank": 256
+    },
+    "Jute Product Innovator": {
+        "traits": [
+            "eco-conscious",
+            "creative",
+            "business-savvy"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "West Bengal"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 9000,
+        "rank": 257
+    },
+    "Kite-Making Artisan": {
+        "traits": [
+            "creative",
+            "traditional",
+            "seasonal"
+        ],
+        "salary": [
+            150000,
+            500000
+        ],
+        "work_env": "Workshop",
+        "growth": "Seasonal",
+        "locations": [
+            "Gujarat"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 3000,
+        "rank": 258
+    },
+    "Lacquerware Designer": {
+        "traits": [
+            "artistic",
+            "traditional",
+            "detail-oriented"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Studio/Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Karnataka",
+            "Andhra"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 259
+    },
+    "Miniature Painting Animator": {
+        "traits": [
+            "artistic",
+            "tech-savvy",
+            "patient"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Creative/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rajasthan"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 4000,
+        "rank": 260
+    },
+    "Natural Building Consultant": {
+        "traits": [
+            "eco-conscious",
+            "architectural",
+            "traditional"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Green Construction",
+        "growth": "Moderate",
+        "locations": [
+            "Rural/Urban"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 7000,
+        "rank": 261
+    },
+    "Organic Cotton Farmer": {
+        "traits": [
+            "eco-conscious",
+            "agricultural",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Farm",
+        "growth": "Moderate",
+        "locations": [
+            "Maharashtra",
+            "Gujarat"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 15000,
+        "rank": 262
+    },
+    "Paddy Field Fish Farmer": {
+        "traits": [
+            "innovative",
+            "agricultural",
+            "eco-conscious"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Aquaculture",
+        "growth": "Moderate",
+        "locations": [
+            "West Bengal",
+            "Kerala"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 8000,
+        "rank": 263
+    },
+    "Quilt-Making Entrepreneur": {
+        "traits": [
+            "creative",
+            "traditional",
+            "business-savvy"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop/Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 10000,
+        "rank": 264
+    },
+    "Rural Telemedicine Operator": {
+        "traits": [
+            "empathetic",
+            "tech-savvy",
+            "communicative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Rural/Health",
+        "growth": "Moderate",
+        "locations": [
+            "Tier 2/3 cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 20000,
+        "rank": 265
+    },
+    "Solar Dryer Innovator": {
+        "traits": [
+            "technical",
+            "eco-conscious",
+            "agricultural"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Green Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 10000,
+        "rank": 266
+    },
+    "Traditional Boat Maker": {
+        "traits": [
+            "skilled",
+            "traditional",
+            "detail-oriented"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Low",
+        "locations": [
+            "Coastal regions"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 3000,
+        "rank": 267
+    },
+    "Upcycled Temple Flower Artist": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "religious"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Art/Religious",
+        "growth": "Moderate",
+        "locations": [
+            "Temple towns"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 6000,
+        "rank": 268
+    },
+    "Vermicompost Consultant": {
+        "traits": [
+            "eco-conscious",
+            "agricultural",
+            "communicative"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Rural/Urban",
+        "growth": "Moderate",
+        "locations": [
+            "Pan-India"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 15000,
+        "rank": 269
+    },
+    "Waste-Picker Health Educator": {
+        "traits": [
+            "empathetic",
+            "health-focused",
+            "communicative"
+        ],
+        "salary": [
+            200000,
+            550000
+        ],
+        "work_env": "Municipal/NGO",
+        "growth": "Moderate",
+        "locations": [
+            "Urban slums"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 20000,
+        "rank": 270
+    },
+    "Yak Wool Product Designer": {
+        "traits": [
+            "eco-conscious",
+            "traditional",
+            "creative"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Manufacturing",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 6000,
+        "rank": 271
+    },
+    "Zardozi Embroidery Digitalizer": {
+        "traits": [
+            "artistic",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Fashion/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Lucknow",
+            "Hyderabad"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 5000,
+        "rank": 272
+    },
+    "Ayurvedic Cosmetologist": {
+        "traits": [
+            "holistic",
+            "creative",
+            "detail-oriented"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Wellness/Beauty",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Bangalore"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 12000,
+        "rank": 273
+    },
+    "Bamboo Musical Instrument Maker": {
+        "traits": [
+            "artistic",
+            "musical",
+            "traditional"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Low",
+        "locations": [
+            "Northeast"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 3000,
+        "rank": 274
+    },
+    "Cow Dung Product Innovator": {
+        "traits": [
+            "eco-conscious",
+            "innovative",
+            "business-savvy"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Green Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 8000,
+        "rank": 275
+    },
+    "Desi Cosmetic Formulator": {
+        "traits": [
+            "scientific",
+            "traditional",
+            "creative"
+        ],
+        "salary": [
+            350000,
+            950000
+        ],
+        "work_env": "Beauty/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 7000,
+        "rank": 276
+    },
+    "Eco-Friendly Fireworks Developer": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "chemical"
+        ],
+        "salary": [
+            400000,
+            1100000
+        ],
+        "work_env": "Green Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Sivakasi"
+        ],
+        "demand_score": 6.5,
+        "nsdc_trainings": 5000,
+        "rank": 277
+    },
+    "Folk Theatre Digital Archivist": {
+        "traits": [
+            "artistic",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Cultural/Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Regional hubs"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 4000,
+        "rank": 278
+    },
+    "Gond Art Animator": {
+        "traits": [
+            "creative",
+            "tech-savvy",
+            "traditional"
+        ],
+        "salary": [
+            300000,
+            800000
+        ],
+        "work_env": "Digital/Art",
+        "growth": "Moderate",
+        "locations": [
+            "Madhya Pradesh"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 3000,
+        "rank": 279
+    },
+    "Handmade Incense Maker": {
+        "traits": [
+            "traditional",
+            "creative",
+            "detail-oriented"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu",
+            "Karnataka"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 6000,
+        "rank": 280
+    },
+    "Indian Seed Bank Curator": {
+        "traits": [
+            "eco-conscious",
+            "agricultural",
+            "organized"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Agriculture",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 7000,
+        "rank": 281
+    },
+    "Jaggery Packaging Innovator": {
+        "traits": [
+            "innovative",
+            "eco-conscious",
+            "business-savvy"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 282
+    },
+    "Khadi Retail Strategist": {
+        "traits": [
+            "traditional",
+            "business-savvy",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 8000,
+        "rank": 283
+    },
+    "Leatherware Upcycler": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            250000,
+            750000
+        ],
+        "work_env": "Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Kanpur",
+            "Agra"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 6000,
+        "rank": 284
+    },
+    "Mithila Art Fashion Designer": {
+        "traits": [
+            "creative",
+            "traditional",
+            "innovative"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Fashion",
+        "growth": "Moderate",
+        "locations": [
+            "Bihar",
+            "Delhi"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 5000,
+        "rank": 285
+    },
+    "Natural Perfume Blender": {
+        "traits": [
+            "creative",
+            "sensory-focused",
+            "traditional"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Wellness/Beauty",
+        "growth": "Moderate",
+        "locations": [
+            "Kannauj",
+            "Mumbai"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 4000,
+        "rank": 286
+    },
+    "Organic Turmeric Farmer": {
+        "traits": [
+            "agricultural",
+            "eco-conscious",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Farm",
+        "growth": "Moderate",
+        "locations": [
+            "Tamil Nadu",
+            "Andhra"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 10000,
+        "rank": 287
+    },
+    "Palm Leaf Engraver": {
+        "traits": [
+            "artistic",
+            "traditional",
+            "patient"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Low",
+        "locations": [
+            "Odisha"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 3000,
+        "rank": 288
+    },
+    "Quinoa Farming Advisor": {
+        "traits": [
+            "agricultural",
+            "innovative",
+            "communicative"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Farm/Consulting",
+        "growth": "Moderate",
+        "locations": [
+            "Himalayan regions"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 7000,
+        "rank": 289
+    },
+    "Rural Solar Technician": {
+        "traits": [
+            "technical",
+            "eco-conscious",
+            "patient"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Rural/Energy",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 15000,
+        "rank": 290
+    },
+    "Sacred Plant Conservationist": {
+        "traits": [
+            "eco-conscious",
+            "traditional",
+            "field-oriented"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "NGO/Research",
+        "growth": "Moderate",
+        "locations": [
+            "Forest regions"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 291
+    },
+    "Traditional Toy Reviver": {
+        "traits": [
+            "creative",
+            "traditional",
+            "business-savvy"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Craft hubs"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 6000,
+        "rank": 292
+    },
+    "Upcycled Glass Artist": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Studio",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 5000,
+        "rank": 293
+    },
+    "Vegan Sweets Innovator": {
+        "traits": [
+            "culinary-skilled",
+            "innovative",
+            "health-focused"
+        ],
+        "salary": [
+            300000,
+            850000
+        ],
+        "work_env": "Food Tech",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.8,
+        "nsdc_trainings": 6000,
+        "rank": 294
+    },
+    "Water Hyacinth Weaver": {
+        "traits": [
+            "creative",
+            "eco-conscious",
+            "skilled"
+        ],
+        "salary": [
+            200000,
+            600000
+        ],
+        "work_env": "Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Water-rich regions"
+        ],
+        "demand_score": 4.5,
+        "nsdc_trainings": 5000,
+        "rank": 295
+    },
+    "Yoga Retreat Designer": {
+        "traits": [
+            "creative",
+            "wellness-knowledgeable",
+            "organized"
+        ],
+        "salary": [
+            350000,
+            1000000
+        ],
+        "work_env": "Wellness/Tourism",
+        "growth": "Moderate",
+        "locations": [
+            "Rishikesh",
+            "Goa"
+        ],
+        "demand_score": 6.2,
+        "nsdc_trainings": 8000,
+        "rank": 296
+    },
+    "Zero-Waste Store Curator": {
+        "traits": [
+            "eco-conscious",
+            "organized",
+            "communicative"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Retail",
+        "growth": "Moderate",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 5.5,
+        "nsdc_trainings": 7000,
+        "rank": 297
+    },
+    "Ayurvedic Spa Consultant": {
+        "traits": [
+            "holistic",
+            "communicative",
+            "wellness-focused"
+        ],
+        "salary": [
+            300000,
+            900000
+        ],
+        "work_env": "Wellness",
+        "growth": "Moderate",
+        "locations": [
+            "Kerala",
+            "Goa"
+        ],
+        "demand_score": 6.0,
+        "nsdc_trainings": 10000,
+        "rank": 298
+    },
+    "Bamboo Bicycle Courier": {
+        "traits": [
+            "eco-conscious",
+            "athletic",
+            "urban-knowledgeable"
+        ],
+        "salary": [
+            200000,
+            500000
+        ],
+        "work_env": "Urban/Delivery",
+        "growth": "Low",
+        "locations": [
+            "Metro cities"
+        ],
+        "demand_score": 4.0,
+        "nsdc_trainings": 3000,
+        "rank": 299
+    },
+    "Clay Refrigerator Maker": {
+        "traits": [
+            "traditional",
+            "technical",
+            "eco-conscious"
+        ],
+        "salary": [
+            250000,
+            700000
+        ],
+        "work_env": "Workshop",
+        "growth": "Moderate",
+        "locations": [
+            "Rural hubs"
+        ],
+        "demand_score": 5.0,
+        "nsdc_trainings": 4000,
+        "rank": 300
+    }
+}
