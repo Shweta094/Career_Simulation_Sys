@@ -29,7 +29,7 @@ This system combines multiple intelligent approaches to generate personalized an
 - **Rule-Based Matching** engine  
 - **Ontology model** for semantic career connections  
 
-### 📄 Text File Generation
+### 📄 Report Generation
 🖨 Provides a Print button to directly print the career simulation 
 
 ## 🚀 Features
